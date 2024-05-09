@@ -1,0 +1,17 @@
+body{
+
+    background-image: url(images/pnb.jpg_large);
+    background-image:  linear-gradient(155deg,url(images/pnb.jpg), rgba(161,14,56,1) 0%, rgba(57,52,52,1) 96%);
+    width: 100%;
+    background-repeat: cover;
+    background-position: cover;
+    margin-top: -20px;
+    
+
+}
+a{
+    color: white
+}
+label{
+    color: #fff
+}
